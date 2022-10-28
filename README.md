@@ -5,3 +5,4 @@ L’algorithme des K plus proches voisins ou K-nearest neighbors (kNN) est un al
 
 ## Programmes
 - [Type Pokemon](https://github.com/Thomas-Dulompont/KNN/tree/main/type_pokemon)
+- [Iris](https://github.com/Thomas-Dulompont/KNN/tree/main/iris)
